@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="alwaysontop.png" alt="Always On Top" width="256">
+  <img src="AlwaysOnTop.png" alt="Always On Top" width="256">
 </p>
 
 <p align="center">
@@ -42,3 +42,4 @@ Download the latest version from the **Releases** section of this repository.
 ## License
 
 This project is licensed under the **MIT License**.
+
